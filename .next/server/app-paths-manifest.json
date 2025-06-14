@@ -1,0 +1,7 @@
+{
+  "/api/webhook/route": "app/api/webhook/route.js",
+  "/messages/page": "app/messages/page.js",
+  "/api/messages/route": "app/api/messages/route.js",
+  "/referrals/page": "app/referrals/page.js",
+  "/api/referrals/route": "app/api/referrals/route.js"
+}
